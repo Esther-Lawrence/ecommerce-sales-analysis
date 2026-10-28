@@ -35,9 +35,7 @@ This project aims to analyse e-commerce sales data to uncover useful insights th
 # Data Source
 
 This project uses an AI-generated synthetic e-commerce sales dataset created with the assistance of ChatGPT for educational and portfolio purposes.
-
- [Download the original dataset](
-
+ [Download the original dataset](https://github.com/Esther-Lawrence/ecommerce-sales-analysis/edit/main/README.md/ULTIMATE_MESSY_SALES_DATASET_10000_PLUS_ROWS (1).xlsx)
 The dataset is used to practise data cleaning, SQL querying, Python analysis, and dashboard development. It does not represent verified transactions from a real company.
 
 
