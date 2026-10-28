@@ -1,6 +1,5 @@
-# ecommerce-sales-analysis
-End-to-end e-commerce sales analysis using Excel, SQL, Python, and BI dashboards.
 # E-Commerce Sales Analysis
+End-to-end e-commerce sales analysis using Excel, SQL, Python, and BI dashboards.
 
 # Project Overview
 
@@ -37,22 +36,9 @@ This project aims to analyse e-commerce sales data to uncover useful insights th
 This project uses an AI-generated synthetic e-commerce sales dataset created with the assistance of ChatGPT for educational and portfolio purposes.
  [Download the original dataset](https://github.com/Esther-Lawrence/ecommerce-sales-analysis/edit/main/README.md/ULTIMATE_MESSY_SALES_DATASET_10000_PLUS_ROWS (1).xlsx)
 The dataset is used to practise data cleaning, SQL querying, Python analysis, and dashboard development. It does not represent verified transactions from a real company.
-
-
-# Tools and Technologies
-
-- **ChatGPT:** Assisted with generating the synthetic dataset and supporting the learning process.
-- **MySQL:** Querying and analyzing sales data.
-- **Python (Pandas):** Inspecting data quality, missing values, and duplicate records.
-- **Tableau:** Creating interactive visualizations and dashboards.
-- **R:** Additional analysis, if applicable.
-
-
-
 The dataset covers order dates from January 2024 to December 2025 and contains information about customers, products, sales transactions, revenue, costs, profits, payment status, and order fulfilment.
 
-
-Tools and Technologies
+# Tools and Technologies
 
 * Microsoft Excel — Power Query and data cleaning
 * SQL / MySQL — data querying and business analysis
@@ -60,35 +46,36 @@ Tools and Technologies
 * Power BI — interactive dashboards
 * Tableau — data visualisation and dashboard development
 
-Project Workflow
+# Project Workflow
 
-1. Data Cleaning
+1. **Data Cleaning**
 
 Used Excel Power Query to inspect and clean the dataset, addressing data quality issues.
 
-2. SQL Analysis
+2. **SQL Analysis**
 
 Planned analysis includes revenue calculations, product performance, and other business questions using SQL.
 
-3. Python Analysis
+3. **Python Analysis**
 
 Planned analysis includes data exploration, calculations, and visualisation.
 
-4. Power BI Dashboard
+4. **Power BI Dashboard**
 
 Developing a dashboard to present key performance indicators and sales insights.
 
-5. Tableau Dashboard
+5. **Tableau Dashboard**
 
 Planned visual analysis to communicate business trends and findings.
 
-Key Business Questions
+# Key Business Questions
 
-* What is the total revenue?
+* What is the total revenue generated during the period covered by dataset?
 * Which products generate the most revenue?
-* Which product categories perform best?
+* Which product categories perform best in terms of revenue and profit?
 * How do sales change over time?
 * What patterns or data quality issues could affect business decisions?
+* How do discounts affect revenue and profit?
 
 Key Findings
 
