@@ -34,7 +34,7 @@ This project aims to analyse e-commerce sales data to uncover useful insights th
 # Data Source
 
 This project uses an AI-generated synthetic e-commerce sales dataset created with the assistance of ChatGPT for educational and portfolio purposes.
- [Download the original dataset](https://github.com/Esther-Lawrence/ecommerce-sales-analysis/edit/main/README.md/ULTIMATE_MESSY_SALES_DATASET_10000_PLUS_ROWS (1).xlsx)
+ [Download the original dataset](https://github.com/Esther-Lawrence/ecommerce-sales-analysis/blob/main/ULTIMATE_MESSY_SALES_DATASET_10000_PLUS_ROWS%20(1).xlsx)
 The dataset is used to practise data cleaning, SQL querying, Python analysis, and dashboard development. It does not represent verified transactions from a real company.
 The dataset covers order dates from January 2024 to December 2025 and contains information about customers, products, sales transactions, revenue, costs, profits, payment status, and order fulfilment.
 
@@ -70,12 +70,23 @@ Planned visual analysis to communicate business trends and findings.
 
 # Key Business Questions
 
-* What is the total revenue generated during the period covered by dataset?
-* Which products generate the most revenue?
-* Which product categories perform best in terms of revenue and profit?
-* How do sales change over time?
-* What patterns or data quality issues could affect business decisions?
-* How do discounts affect revenue and profit?
+The analysis will focus on answering the following business questions:
+
+1. Revenue Performance: What is the total revenue generated during the period covered by the dataset?
+2. Sales Volume: How many orders were placed, and what is the total quantity of products sold?
+3. Product Performance: Which products generate the highest and lowest revenue?
+4. Category Performance: Which product categories generate the highest revenue and profit?
+5. Sales Trends: How does sales performance change monthly and annually?
+6. Customer Performance: Who are the highest-value customers, and which customers contribute most to revenue?
+7. Profitability: What is the total profit and profit margin, and which products or categories are most profitable?
+8. Discount Impact: How do discounts influence sales revenue and profitability?
+9. Payment and Fulfilment: What patterns can be identified in payment status and order fulfilment?
+10. Data Quality: What data quality issues exist, and how could they affect the accuracy of business decisions?
+
+
+
+
+
 
 Key Findings
 
